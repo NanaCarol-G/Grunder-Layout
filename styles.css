@@ -1,0 +1,35 @@
+body {
+
+
+    font-family: Verdana, sans-serif;
+    background-color: hsl(80, 61%, 50%);
+
+}
+
+article,
+footer {
+
+    /*background-colour: hsla(160, 61%, 50%, 0, 1); */
+    background-color: rgb(27, 188, 142);
+
+}
+
+main {
+    display: flex;
+    gap: 8px;
+
+}
+
+footer {
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+
+}
+
+a:hover {
+    text-decoration: underline;
+}
